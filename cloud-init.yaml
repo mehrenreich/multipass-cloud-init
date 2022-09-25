@@ -1,0 +1,6 @@
+users:
+  - name: mike
+    sudo: true
+    shell: /bin/bash
+    ssh_authorized_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPewZ8xcwOhJ50S+vsgySrgxxZXejXqXLVSklabkSf0V michael.ehrenreich@mailbox.org
